@@ -56,8 +56,8 @@
             "id": 1,
             "title": "amet facilisis magna etiam",
             "detail": "Tortor consequat id porta nibh venenatis cras sed felis eget. Magna fringilla urna porttitor rhoncus. A lacus vestibulum sed arcu non odio euismod lacinia at.",
-            "banner": "https://api.unsplash.com/photos/9QK44fZ8PxE?client_id=2755fd810dbca468d3acde19f6477c586155dae1ee32c216a84a9fe6d052c763",
-            "background": "https://api.unsplash.com/photos/srz9C0zRMt4?client_id=2755fd810dbca468d3acde19f6477c586155dae1ee32c216a84a9fe6d052c763",
+            "banner": "https://images.unsplash.com/photo-1573434490486-3cab65054136?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjEwMzM5MX0",
+            "background": "https://images.unsplash.com/photo-1529986791692-bf14db692256?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMzM5MX0",
             "host": "TechBuzz",
             "date": {
                 "year": 2019,
@@ -69,8 +69,8 @@
             "id": 2,
             "title": "feugiat nisl pretium fusce",
             "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            "banner": "https://api.unsplash.com/photos/-78A8k2r0wg?client_id=2755fd810dbca468d3acde19f6477c586155dae1ee32c216a84a9fe6d052c763",
-            "background": "https://api.unsplash.com/photos/gG70fyu3qsg?client_id=2755fd810dbca468d3acde19f6477c586155dae1ee32c216a84a9fe6d052c763",
+            "banner": "https://images.unsplash.com/photo-1543353361-c2d268d6df56?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjEwMzM5MX0",
+            "background": "https://images.unsplash.com/photo-1514315384763-ba401779410f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMzM5MX0",
             "host": "TechBuzz",
             "date": {
                 "year": 2019,
@@ -82,8 +82,8 @@
             "id": 3,
             "title": "quis enim lobortis scelerisque",
             "detail": "Fermentum iaculis eu non diam phasellus vestibulum lorem sed risus. Amet risus nullam eget felis eget nunc. Lorem ipsum dolor sit amet consectetur. ",
-            "banner": "https://api.unsplash.com/photos/pVtZ5q1RbtI?client_id=2755fd810dbca468d3acde19f6477c586155dae1ee32c216a84a9fe6d052c763",
-            "background": "https://api.unsplash.com/photos/eIhH7RTlTZA?client_id=2755fd810dbca468d3acde19f6477c586155dae1ee32c216a84a9fe6d052c763",
+            "banner": "https://images.unsplash.com/photo-1543283082-43a6fcb4d491?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjEwMzM5MX0",
+            "background": "https://images.unsplash.com/photo-1490535004195-099bc723fa1f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEwMzM5MX0",
             "host": "TechBuzz",
             "date": {
                 "year": 2019,
@@ -95,8 +95,8 @@
             "id": 4,
             "title": "nec sagittis aliquam malesuada",
             "detail": "Dignissim enim sit amet venenatis urna cursus eget. At consectetur lorem donec massa sapien faucibus. Consequat mauris nunc congue nisi. Turpis nunc eget lorem dolor sed viverra. ",
-            "banner": "https://api.unsplash.com/photos/lNScN0DMk7U?client_id=2755fd810dbca468d3acde19f6477c586155dae1ee32c216a84a9fe6d052c763",
-            "background": "https://api.unsplash.com/photos/fT49QnFucQ8?client_id=2755fd810dbca468d3acde19f6477c586155dae1ee32c216a84a9fe6d052c763",
+            "banner": "https://images.unsplash.com/photo-1553727471-54b0cd6df623?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjEwMzM5MX0",
+            "background": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjEwMzM5MX0",
             "host": "TechBuzz",
             "date": {
                 "year": 2019,
