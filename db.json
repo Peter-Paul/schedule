@@ -4,6 +4,7 @@
             "id": 1,
             "subject": "potenti nullam ac tortor vitae purus",
             "description": "One Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis magna etiam tempor orci. Euismod in pellentesque massa placerat duis ultricies.",
+            "status": "pending",
             "date": {
                 "year": 2019,
                 "month": 3,
@@ -14,6 +15,7 @@
             "id": 2,
             "subject": "dolor sit amet consectetur adipiscing elit",
             "description": " Two Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis magna etiam tempor orci. Euismod in pellentesque massa placerat duis ultricies.",
+            "status": "approved",
             "date": {
                 "year": 2019,
                 "month": 10,
@@ -24,6 +26,7 @@
             "id": 3,
             "subject": "amet purus gravida quis blandit turpis",
             "description": "Three Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis magna etiam tempor orci. Euismod in pellentesque massa placerat duis ultricies.",
+            "status": "approved",
             "date": {
                 "year": 2019,
                 "month": 6,
@@ -34,6 +37,7 @@
             "id": 4,
             "subject": "eget arcu dictum varius duis at",
             "description": " Four Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis magna etiam tempor orci. Euismod in pellentesque massa placerat duis ultricies.",
+            "status": "denied",
             "date": {
                 "year": 2019,
                 "month": 7,
@@ -44,6 +48,7 @@
             "id": 5,
             "subject": "lobortis feugiat vivamus at augue eget",
             "description": "Five Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis magna etiam tempor orci. Euismod in pellentesque massa placerat duis ultricies.",
+            "status": "denied",
             "date": {
                 "year": 2019,
                 "month": 1,
