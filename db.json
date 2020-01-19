@@ -19,7 +19,7 @@
             "to": 10,
             "subject": "dolor sit amet consectetur adipiscing elit",
             "description": " Two Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis magna etiam tempor orci. Euismod in pellentesque massa placerat duis ultricies.",
-            "status": "approved",
+            "status": "pending",
             "date": {
                 "year": 2019,
                 "month": 10,
@@ -58,7 +58,7 @@
             "to": 6,
             "subject": "lobortis feugiat vivamus at augue eget",
             "description": "Five Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisis magna etiam tempor orci. Euismod in pellentesque massa placerat duis ultricies.",
-            "status": "denied",
+            "status": "pending",
             "date": {
                 "year": 2019,
                 "month": 1,
